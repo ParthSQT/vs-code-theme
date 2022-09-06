@@ -1,0 +1,21 @@
+{
+  "name": "parth-test-theme",
+  "displayName": "parth-test-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Parth Personal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Parth Personal Theme-color-theme.json"
+      }
+    ]
+  }
+}
